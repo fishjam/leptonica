@@ -1,0 +1,4 @@
+Win:
+  cppan
+  cmake -G "Visual Studio 14 2015 Win64" -DCMAKE_INSTALL_PREFIX=E:\xxx\win ..
+  cmake --build . --config Release --target INSTALL
