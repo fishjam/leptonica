@@ -1,0 +1,2 @@
+- ZLIB: [zlib1211](https://nchc.dl.sourceforge.net/project/libpng/zlib/1.2.11/zlib1211.zip)
+- PNG: [lpng1637](https://nchc.dl.sourceforge.net/project/libpng/libpng16/1.6.37/lpng1637.zip)
